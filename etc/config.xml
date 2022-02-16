@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <flatrate_1>
+                <model>Bay20\MultipleFlatRate\Model\Carrier\FlatRate1</model>
+                <active>0</active>
+                <title>Flat Rate #1</title>
+                <name>Flat Rate #1</name>
+                <price>0.00</price>
+                <showmethod>0</showmethod>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <sallowspecific>0</sallowspecific>
+            </flatrate_1>
+            <flatrate_2>
+                <model>Bay20\MultipleFlatRate\Model\Carrier\FlatRate2</model>
+                <active>0</active>
+                <title>Flat Rate #2</title>
+                <name>Flat Rate #2</name>
+                <price>0.00</price>
+                <showmethod>0</showmethod>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <sallowspecific>0</sallowspecific>
+            </flatrate_2>
+            <flatrate_3>
+                <model>Bay20\MultipleFlatRate\Model\Carrier\FlatRate3</model>
+                <active>0</active>
+                <title>Flat Rate #3</title>
+                <name>Flat Rate #3</name>
+                <price>0.00</price>
+                <showmethod>0</showmethod>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <sallowspecific>0</sallowspecific>
+            </flatrate_3>
+            <flatrate_4>
+                <model>Bay20\MultipleFlatRate\Model\Carrier\FlatRate4</model>
+                <active>0</active>
+                <title>Flat Rate #4</title>
+                <name>Flat Rate #4</name>
+                <price>0.00</price>
+                <showmethod>0</showmethod>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <sallowspecific>0</sallowspecific>
+            </flatrate_4>
+            <flatrate_5>
+                <model>Bay20\MultipleFlatRate\Model\Carrier\FlatRate5</model>
+                <active>0</active>
+                <title>Flat Rate #5</title>
+                <name>Flat Rate #5</name>
+                <price>0.00</price>
+                <showmethod>0</showmethod>
+                <specificerrmsg>This shipping method is not available. To use this shipping method, please contact us.</specificerrmsg>
+                <sallowspecific>0</sallowspecific>
+            </flatrate_5>
+        </carriers>
+    </default>
+</config>
