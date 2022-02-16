@@ -25,3 +25,5 @@ By Composer:
 - php bin/magento setup:upgrade
 - php bin/magento setup:di:compile
 - php bin/magento setup:static:content:deploy
+
+If any issue you can contact us at wargis@bay20.com or manish@bay20.com
