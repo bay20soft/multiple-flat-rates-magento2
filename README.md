@@ -1,14 +1,14 @@
 # Multiple Flat Rate Shipping Method Extension In Magento 2
 Version 1.0.0
 
-Short Description: Multiple Flat Rate shipping method is help to five different shipping method is allow to stored.
+Short Description: Multiple Flat Rate shipping extension will allow you to add 5 flat rates in as shipping method.
 
 Highlight Features:
 - Creates five different flat rate shipping method . 
 - Allows to enable/disable each flat rate shipping method.
-- Display title for flat rate
+- Manage title for flat rates
 - Allows to choose specific countries applied
-- This extension helps to show customize error message if not applicable
+- This extension help you to show customize error message if not applicable
 
 
 How to install:
@@ -20,7 +20,7 @@ Download the zip file and unzip in your app/code directory. Then you need to run
 - php bin/magento setup:di:compile
 -	php bin/magento setup:static:content:deploy
 
-By Composer:
+Via Composer:
 - composer required Bay20/modul-multi-flat-rates
 - php bin/magento setup:upgrade
 - php bin/magento setup:di:compile
